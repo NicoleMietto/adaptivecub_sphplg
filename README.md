@@ -9,6 +9,7 @@ In adaptive_cub there are the following Matlab's codes:
               the initial triangulation of the domain,
               the adaptive triangulations for three different tolerance levels 
               (in these images is shown a color map of the integrand function over the domain),
-              the quadrature nodes of a non-adaptive quadrature method with 40 as degree of exactness.
+              the quadrature nodes of a non-adaptive quadrature method with 40 as degree of exactness. 
+              In the end, it displays a table comparing relevant data.
               
 -other supporting codes: these are auxiliary functions and scripts that are necessary for the correct functioning of the main codes.
